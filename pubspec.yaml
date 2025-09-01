@@ -1,6 +1,6 @@
 name: id_generator
 description: A comprehensive Dart library for generating secure, customizable random IDs with support for numeric, alphabetic, special characters, and mixed combinations.
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/mohamedmaher-dev/id_generator
 
 environment:

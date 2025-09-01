@@ -5,6 +5,32 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.2] - 2024-01-20
+
+### Fixed
+
+- Code formatting improvements in example file
+- Enhanced documentation formatting and consistency
+- Minor performance optimizations
+
+### Changed
+
+- Updated example code with better formatting practices
+- Improved readability of long print statements
+
+## [1.0.1] - 2024-01-20
+
+### Fixed
+
+- Minor documentation improvements
+- Package metadata enhancements
+- Code style consistency improvements
+
+### Changed
+
+- Enhanced example documentation
+- Improved package description clarity
+
 ## [1.0.0] - 2024-01-20
 
 ### Added
