@@ -25,8 +25,10 @@ Add this package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  id_generator: ^1.0.0
+  id_generator: latest # Use latest version
 ```
+
+> 💡 **Always latest**: Using `latest` ensures you get the most current version. You can also use `^1.0.0` for semantic versioning or check [pub.dev](https://pub.dev/packages/id_generator) for specific version numbers.
 
 Then run:
 
